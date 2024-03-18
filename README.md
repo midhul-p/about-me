@@ -11,6 +11,7 @@ I'm currently pouring my energy into [developwithmi.com](https://developwithmi.c
 ## Get in Touch
 - 🌐 Explore my website: [developwithmi.com](https://developwithmi.com/)
 - 📸 Follow me on Instagram: [developwith.mi](https://www.instagram.com/developwith.mi/)
+- 📸 Follow me on LinkedIn: [iammidhul](https://www.linkedin.com/in/iammidhul/)
 
 ## My Tech Stack
 Here's a glimpse of my toolkit:
