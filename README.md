@@ -1,5 +1,3 @@
-
-
 # Hey there! 👋 
 
 ## About Me
@@ -9,9 +7,8 @@ I'm a passionate developer with expertise in Angular, HTML, CSS, JavaScript, and
 I'm currently pouring my energy into [developwithmi.com](https://developwithmi.com/), an upcoming community platform meticulously designed to empower developers with comprehensive insights spanning coding techniques, financial literacy, and life hacks. Let's join forces and collaboratively shape the future of developer communities!
 
 ## Get in Touch
-- 🌐 Explore my website: [developwithmi.com](https://developwithmi.com/)
 - 📸 Follow me on Instagram: [developwith.mi](https://www.instagram.com/developwith.mi/)
-- 📸 Follow me on LinkedIn: [iammidhul](https://www.linkedin.com/in/iammidhul/)
+- 📸 Follow me on Medium: [Medium](https://medium.com/@developwithmi)
 
 ## My Tech Stack
 Here's a glimpse of my toolkit:
